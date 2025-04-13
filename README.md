@@ -32,6 +32,10 @@
   <a href="https://www.credly.com/badges/60a68542-c5ec-413e-a0ca-c0978ca452c3/public_url" target="_blank">
     <img src="https://img.shields.io/badge/CCNA%20Enterprise%20Networking-Cisco-blue?style=flat&logo=cisco&logoColor=white" alt="CCNA Enterprise"/>
   </a>
+  
+  <a href="https://spring.academy/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring%20Academy-WIP-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Academy WIP"/>
+  </a>
 </p>
 
 ## 📫 You can find me here:
