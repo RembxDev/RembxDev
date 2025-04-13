@@ -18,6 +18,22 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
+## 🎓 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/62bc38f5-1c0f-4cad-978a-2c372cc11dea/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/CCNA%20Intro%20to%20Networks-Cisco-blue?style=flat&logo=cisco&logoColor=white" alt="CCNA Intro"/>
+  </a><br>
+
+  <a href="https://www.credly.com/badges/730cf165-a4e5-4fca-bc80-6a6b97de566f/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/CCNA%20Switching%20&%20Routing-Cisco-blue?style=flat&logo=cisco&logoColor=white" alt="CCNA Routing"/>
+  </a><br>
+
+  <a href="https://www.credly.com/badges/60a68542-c5ec-413e-a0ca-c0978ca452c3/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/CCNA%20Enterprise%20Networking-Cisco-blue?style=flat&logo=cisco&logoColor=white" alt="CCNA Enterprise"/>
+  </a>
+</p>
+
 ## 📫 You can find me here:
 - ✉️ Email: rembxyt@gmail.com
 - 💼 LinkedIn: https://shorturl.at/MoBLF
