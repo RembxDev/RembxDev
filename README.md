@@ -12,4 +12,5 @@
 
 ## 📫 You can find me here:
 - ✉️ Email: rembxyt@gmail.com
+- 💼 LinkedIn: https://shorturl.at/MoBLF
 
